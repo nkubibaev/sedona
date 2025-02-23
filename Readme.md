@@ -1,7 +1,7 @@
 # Личный проект «{{projectTitle}}»
 
-* Студент: [{{userName}}]({{userProfile}}).
-* Наставник: `Неизвестно`.
+* Студент: [Нурмат Кубибаев](https://github.com/nkubibaev/sedona?tab=readme-ov-file).
+* Наставник: [Мурат Кубибаев].
 
 ---
 
